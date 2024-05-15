@@ -1,0 +1,11 @@
+1) What is the difference between var and let?
+      Var can be redeclared, with let you cannot redeclare.
+
+2) What is the difference between var and const?
+      Var can be redelcared and reassign, with const you cannot redeclare or reassign. 
+
+3) What is the difference between let and const?
+      Let can be reassigned, with const you cannot reassign.
+
+4) What is hoisting?
+      Hoisting is when you use var and can use it before it has been initialized because of how Javascript reads variables first.
